@@ -1,0 +1,1 @@
+# wollok-example-mario
