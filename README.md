@@ -1,4 +1,6 @@
 # wollok-example-mario
+This is an old example to show Wollok Game the Programming Paradigms subject at Universidad Tecnológica Nacional (UTN). Therefore the code is in Spanish.
+For an updated version go to: https://github.com/wollok/ejemplo-wollok-game-mario
 
 ## Image attributions
 ### assets/mario.png
